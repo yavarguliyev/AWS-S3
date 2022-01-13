@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "AWS S3",
   "main": "index.js",
-  "scripts": {
-    "start:dev": ""
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yavarguliyev/AWS-S3.git"
@@ -13,6 +11,12 @@
   "keywords": [],
   "author": "Yavar Guliyev",
   "license": "MIT",
+  "devDependencies": {
+    "serverless-iam-roles-per-function": "^3.1.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.846.0"
+  },
   "bugs": {
     "url": "https://github.com/yavarguliyev/AWS-S3/issues"
   },
