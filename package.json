@@ -1,0 +1,20 @@
+{
+  "name": "aws-s3",
+  "version": "1.0.0",
+  "description": "AWS S3",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yavarguliyev/AWS-S3.git"
+  },
+  "keywords": [],
+  "author": "Yavar Guliyev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yavarguliyev/AWS-S3/issues"
+  },
+  "homepage": "https://github.com/yavarguliyev/AWS-S3#readme"
+}
