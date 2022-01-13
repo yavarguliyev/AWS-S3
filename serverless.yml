@@ -2,7 +2,7 @@ service: s3-file-uploader
 
 provider:
   name: aws
-  runtime: nodejs17.x
+  runtime: nodejs12.x
   stage: dev
   region: us-west-1
 
